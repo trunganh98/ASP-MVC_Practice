@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEM3\\W\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\ASP-MVC_Practice\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj": {}
   },
   "projects": {
-    "D:\\SEM3\\W\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\ASP-MVC_Practice\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEM3\\W\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\ASP-MVC_Practice\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj",
         "projectName": "Product Manager_NguyenTrungAnh",
-        "projectPath": "D:\\SEM3\\W\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\ASP-MVC_Practice\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SEM3\\W\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\ASP-MVC_Practice\\Product Manager_NguyenTrungAnh\\Product Manager_NguyenTrungAnh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
