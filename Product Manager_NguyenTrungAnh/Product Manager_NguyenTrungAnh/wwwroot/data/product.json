@@ -1,0 +1,64 @@
+﻿[
+  {
+    "Id": "Naruto",
+    "Name": "Naruto Shippuuden",
+    "Price": 10000,
+    "img": "https://photos.animetvn.tv/upload/film/5rHPGDc-1.jpg"
+  },
+
+  {
+    "Id": "OnePiece",
+    "Name": "One Piece",
+    "Price": 10000,
+    "img": "https://photos.animetvn.tv/upload/film/e7c936b5eacd4fd0f89bd7b651954e6b1383245216_full.jpg"
+  },
+
+  {
+    "Id": "Mahouka",
+    "Name": "Mahouka Koukou no Rettousei",
+    "Price": 8000,
+    "img": "https://photos.animetvn.tv/upload/film/61039l.jpg"
+  },
+
+  {
+    "Id": "Gakusen",
+    "Name": "Gakusen Toshi Asterisk",
+    "Price": 8500,
+    "img": "https://photos.animetvn.tv/upload/film/Gakusen-Toshi-Asterisk-1.jpg"
+  },
+
+  {
+    "Id": "Nanatsu",
+    "Name": "Nanatsu no Taizai",
+    "Price": 8200,
+    "img": "https://farm6.staticflickr.com/5599/15460252381_3c98c4b56f_o.jpg"
+  },
+
+  {
+    "Id": "Bleach",
+    "Name": "Bleach-Sứ Mạng Thần Chết",
+    "Price": 9000,
+    "img": "https://photos.animetvn.tv/upload/film/yLkcS5M.jpg"
+  },
+
+  {
+    "Id": "Sword",
+    "Name": "Sword Art Online,",
+    "Price": 9500,
+    "img": "https://photos.animetvn.tv/upload/film/39717.jpg"
+  },
+
+  {
+    "Id": "InuYasha",
+    "Name": "Inu Yasha - Khuyển Dạ Xoa",
+    "Price": 8800,
+    "img": "https://photos.animetvn.tv/upload/film/Ypovz5i.jpg"
+  },
+
+  {
+    "Id": "Rakudai",
+    "Name": "Rakudai Kishi no Cavalry",
+    "Price": 9200,
+    "img": "https://photos.animetvn.tv/upload/film/YztqFlI.jpg"
+  }
+]

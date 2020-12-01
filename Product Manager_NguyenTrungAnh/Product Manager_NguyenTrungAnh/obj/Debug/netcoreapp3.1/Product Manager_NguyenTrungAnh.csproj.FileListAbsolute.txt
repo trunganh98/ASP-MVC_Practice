@@ -1,0 +1,41 @@
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.exe
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.deps.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.runtimeconfig.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.runtimeconfig.dev.json
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.dll
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.pdb
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.Views.dll
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\bin\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.Views.pdb
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.csprojAssemblyReference.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.AssemblyInfoInputs.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.AssemblyInfo.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.csproj.CoreCompileInputs.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorComponent.input.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\RazorDeclaration\Product Manager_NguyenTrungAnh.dll
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.TagHelpers.input.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.TagHelpers.output.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorCoreGenerate.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorAssemblyInfo.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorAssemblyInfo.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorTargetAssemblyInfo.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.RazorTargetAssemblyInfo.cs
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.Views.pdb
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager_NguyenTrungAnh.StaticWebAssets.Manifest.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager_NguyenTrungAnh.StaticWebAssets.xml
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.dll
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.pdb
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.genruntimeconfig.cache
+D:\SEM3\W\Product Manager_NguyenTrungAnh\Product Manager_NguyenTrungAnh\obj\Debug\netcoreapp3.1\Product Manager_NguyenTrungAnh.csproj.CopyComplete
